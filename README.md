@@ -140,7 +140,7 @@ This project was completed as part of the Summer Project 2026 organized by E-Cel
 ## 📎 Project Resources
 
 - 📓 [Jupyter Notebook](roi-lens-analysis.ipynb)
-- 📑 [Project Presentation](project-presentation.pdf)
+- 📑 [Project Presentation](roi-presentation.pdf)
 - 🏅 [Certificate of Completion](certificate.jpeg)
 
 
