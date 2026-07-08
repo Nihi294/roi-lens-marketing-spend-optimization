@@ -152,7 +152,7 @@ Second-Year B.Tech Student
 
 Interested in Product Management, AI, Data Analytics, and UI/UX Design.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/nihira-singh-b2907a377/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nihira-singh/)
 
 ## 📂 Dataset
 
